@@ -22,5 +22,9 @@ https://www.nber.org/research/data/survey-income-and-program-participation-sipp
 7. geo spatial database: FGDL Metadata Explorer
 https://www.fgdl.org/metadataexplorer/explorer.jsp
 
+8. the employment data in the metropolitan areas in the U.S
+https://www.bls.gov/cew/downloadable-data-files.htm
+
+
 
 
