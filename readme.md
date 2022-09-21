@@ -13,7 +13,14 @@ https://www.floridajobs.org/workforce-statistics/data-center/statistical-program
 4. US CBSA shapefile boundary:
 https://data-usdot.opendata.arcgis.com/datasets/core-based-statistical-areas/explore?location=37.329731%2C-121.933150%2C4.31&showTable=true
 
+5. patent data:
+https://patentsview.org/
 
+6. SIPP data: Survey of Income and Program Participation
+https://www.nber.org/research/data/survey-income-and-program-participation-sipp
+
+7. geo spatial database: FGDL Metadata Explorer
+https://www.fgdl.org/metadataexplorer/explorer.jsp
 
 
 
