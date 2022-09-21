@@ -27,4 +27,11 @@ https://www.bls.gov/cew/downloadable-data-files.htm
 
 
 
+101: material relating to NPL
+https://junjiehu.github.io/cs769-spring22/lectures/
+
+102:useful website
+https://github.com/JunweiLiang/awesome_lists/blob/main/webpage.md
+
+
 
