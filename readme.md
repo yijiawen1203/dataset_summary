@@ -33,5 +33,9 @@ https://junjiehu.github.io/cs769-spring22/lectures/
 102:useful website
 https://github.com/JunweiLiang/awesome_lists/blob/main/webpage.md
 
+103: Data describing party political control of the legislature and
+governorship are from the Partisan Division of American State Governments database, published by the Inter-University Consortium for
+Political and Social Research (ICPSR).
+
 
 
