@@ -13,6 +13,9 @@ https://www.floridajobs.org/workforce-statistics/data-center/statistical-program
 4. US CBSA shapefile boundary:
 https://data-usdot.opendata.arcgis.com/datasets/core-based-statistical-areas/explore?location=37.329731%2C-121.933150%2C4.31&showTable=true
 
+4_2.  US county shapefile boundary:
+https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+
 5. patent data:
 https://patentsview.org/
 
