@@ -40,5 +40,9 @@ https://github.com/JunweiLiang/awesome_lists/blob/main/webpage.md
 governorship are from the Partisan Division of American State Governments database, published by the Inter-University Consortium for
 Political and Social Research (ICPSR).
 
+deep learning course 
+http://deeplearning.cs.cmu.edu/S21/index.html
+
+
 
 
