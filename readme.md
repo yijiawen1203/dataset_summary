@@ -43,6 +43,8 @@ Political and Social Research (ICPSR).
 deep learning course 
 http://deeplearning.cs.cmu.edu/S21/index.html
 
+patent data match with the industry 
+https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 
 
 
