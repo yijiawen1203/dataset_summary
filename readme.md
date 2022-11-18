@@ -43,6 +43,9 @@ Political and Social Research (ICPSR).
 deep learning course 
 http://deeplearning.cs.cmu.edu/S21/index.html
 
+computational social science course in stanford
+https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
+
 patent data match with the industry 
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 
