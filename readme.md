@@ -49,5 +49,7 @@ https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
 patent data match with the industry 
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 
+https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/naics_toc.htm
+
 
 
