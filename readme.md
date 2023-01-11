@@ -16,8 +16,6 @@ https://data-usdot.opendata.arcgis.com/datasets/core-based-statistical-areas/exp
 4_2.  US county shapefile boundary:
 https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
-5. patent data:
-https://patentsview.org/
 
 6. SIPP data: Survey of Income and Program Participation
 https://www.nber.org/research/data/survey-income-and-program-participation-sipp
@@ -46,10 +44,19 @@ http://deeplearning.cs.cmu.edu/S21/index.html
 computational social science course in stanford
 https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
 
+
+patent
+==
+
+useful website of patent searching!
+https://guides.library.umass.edu/c.php?g=672608&p=4736575
+
+patent data:
+https://patentsview.org/
+
 patent data match with the industry 
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/naics_toc.htm
-
 
 
