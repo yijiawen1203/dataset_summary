@@ -23,11 +23,6 @@ https://www.nber.org/research/data/survey-income-and-program-participation-sipp
 7. geo spatial database: FGDL Metadata Explorer
 https://www.fgdl.org/metadataexplorer/explorer.jsp
 
-8. the employment data in the metropolitan areas in the U.S
-https://www.bls.gov/cew/downloadable-data-files.htm
-
-
-
 101: material relating to NPL
 https://junjiehu.github.io/cs769-spring22/lectures/
 
@@ -58,5 +53,18 @@ https://patentsview.org/
 patent data match with the industry 
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/naics_toc.htm
+
+
+employment data
+==
+
+classify by industry:
+https://www.bls.gov/cew/classifications/industry/industry-titles.htm
+
+the employment data in the metropolitan areas in the U.S
+https://www.bls.gov/cew/downloadable-data-files.htm
+
+
+
 
 
