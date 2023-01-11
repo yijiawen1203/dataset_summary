@@ -61,6 +61,9 @@ employment data
 classify by industry:
 https://www.bls.gov/cew/classifications/industry/industry-titles.htm
 
+the detailed description of the NAICS 
+https://data.bls.gov/cew/apps/bls_naics/v3/bls_naics_app.htm#tab=download&naics=2022
+
 the employment data in the metropolitan areas in the U.S
 https://www.bls.gov/cew/downloadable-data-files.htm
 
