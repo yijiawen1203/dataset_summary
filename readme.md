@@ -50,13 +50,13 @@ patent
 
 useful website of patent searching!
 https://guides.library.umass.edu/c.php?g=672608&p=4736575
+https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html
 
 patent data:
 https://patentsview.org/
 
 patent data match with the industry 
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
-
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/naics_toc.htm
 
 
