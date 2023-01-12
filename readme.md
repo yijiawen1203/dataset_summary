@@ -54,6 +54,12 @@ patent data match with the industry
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/naics_toc.htm
 
+CPC2IPC matching
+
+https://www.uspto.gov/web/patents/classification/cpc/html/conB82Ytoipc.html
+
+
+
 
 employment data
 ==
