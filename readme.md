@@ -54,8 +54,12 @@ patent data match with the industry
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/doc/naics_info.htm
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/naics/naics_toc.htm
 
-Match USPC2NAICS in 2002 classification:
-https://www.uspto.gov/web/offices/ac/ido/oeip/taf/data/naics_conc/
+Match USPC2NAICS in 2002 classification: the data is from 2008 to 2014
+https://www.uspto.gov/web/offices/ac/ido/oeip/taf/data/naics_conc/ 
+
+match USPC2SIC: the data is from 2001 to 2008.
+https://www.uspto.gov/web/offices/ac/ido/oeip/taf/data/sic_conc/
+
 
 CPC2IPC matching
 
