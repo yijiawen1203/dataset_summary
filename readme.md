@@ -81,6 +81,11 @@ the employment data in the metropolitan areas in the U.S
 https://www.bls.gov/cew/downloadable-data-files.htm
 
 
+topic modeling tutorial
+==
+
+https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html
+
 
 
 
