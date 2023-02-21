@@ -87,5 +87,11 @@ topic modeling tutorial
 https://tm4ss.github.io/docs/Tutorial_6_Topic_Models.html
 
 
+social network dataset
+==
+
+Stanford Large Network Dataset Collection: https://snap.stanford.edu/data/
+
+
 
 
