@@ -92,6 +92,17 @@ social network dataset
 
 Stanford Large Network Dataset Collection: https://snap.stanford.edu/data/
 
+NLP tutorial
+==
 
+https://www.usna.edu/Users/cs/nchamber/courses/nlp/s23/resources.html
+
+https://www.usna.edu/Users/cs/nchamber/courses/nlp/s23/cal.html
+
+Berkley NLP course:
+https://cal-cs288.github.io/sp20/
+
+standford NLP course:
+https://web.stanford.edu/class/cs224u/
 
 
