@@ -105,4 +105,7 @@ https://cal-cs288.github.io/sp20/
 standford NLP course:
 https://web.stanford.edu/class/cs224u/
 
+embed images to vector space
+https://github.com/jina-ai/clip-as-service
+
 
