@@ -118,6 +118,9 @@ https://charleskochfoundation.org/grants/general-proposals/
 funding for summer school
 https://docs.google.com/spreadsheets/d/1-a1EhwY7dsac7CsvjMlwNWRq9o3_Do581FD3oevA6Ww/edit#gid=0
 
+small grant in behavior economics
+https://www.russellsage.org/how-to-apply/small-grants
+
 
 
 
