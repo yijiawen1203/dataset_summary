@@ -121,7 +121,8 @@ https://docs.google.com/spreadsheets/d/1-a1EhwY7dsac7CsvjMlwNWRq9o3_Do581FD3oevA
 small grant in behavior economics
 https://www.russellsage.org/how-to-apply/small-grants
 
-
+FSU Congress of Graduate Students conference funding
+https://fsu-sgacogs.smapply.us/prog/
 
 
 
