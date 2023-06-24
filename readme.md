@@ -128,6 +128,13 @@ Introduction to Data Mining course slides from university of minisoda.
 https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
 
 
+General CS learning material
+==
+
+Introduction to data mining:
+https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
+
+
 
 
 
