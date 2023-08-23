@@ -140,6 +140,10 @@ urban planning course material
 the university of Washington urban planning course syllabus. 
 https://urbdp.be.uw.edu/programs/mup-graduate-degree/udp-course-listings-and-syllabi/ 
 
+portland state university urban planning course syllabus
+
+https://www.pdx.edu/urban-studies-planning/graduate-courses#500
+
 
 
 
