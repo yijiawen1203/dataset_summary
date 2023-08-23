@@ -134,6 +134,12 @@ General CS learning material
 Introduction to data mining:
 https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
 
+urban planning course material
+==
+
+the university of Washington urban planning course syllabus. 
+https://urbdp.be.uw.edu/programs/mup-graduate-degree/udp-course-listings-and-syllabi/ 
+
 
 
 
