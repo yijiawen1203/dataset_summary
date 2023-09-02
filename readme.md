@@ -144,7 +144,8 @@ portland state university urban planning course syllabus
 
 https://www.pdx.edu/urban-studies-planning/graduate-courses#500
 
-
+UIUC course syllabus
+https://urban.illinois.edu/student-life/urban-planning-courses/
 
 
 
