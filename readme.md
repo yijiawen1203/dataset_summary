@@ -147,5 +147,8 @@ https://www.pdx.edu/urban-studies-planning/graduate-courses#500
 UIUC course syllabus
 https://urban.illinois.edu/student-life/urban-planning-courses/
 
+FSU travel funding
+==
 
+https://sga.fsu.edu/cogs-individual-forms.shtml
 
