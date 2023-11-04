@@ -23,6 +23,10 @@ https://www.nber.org/research/data/survey-income-and-program-participation-sipp
 7. geo spatial database: FGDL Metadata Explorer
 https://www.fgdl.org/metadataexplorer/explorer.jsp
 
+8. IRS migration data
+https://www-irs-gov.proxy.lib.fsu.edu/statistics/soi-tax-stats-migration-data
+
+
 101: material relating to NPL
 https://junjiehu.github.io/cs769-spring22/lectures/
 
@@ -38,6 +42,9 @@ http://deeplearning.cs.cmu.edu/S21/index.html
 
 computational social science course in stanford
 https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
+
+
+
 
 
 patent
