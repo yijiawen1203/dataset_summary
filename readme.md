@@ -136,6 +136,7 @@ Introduction to Data Mining course slides from university of minisoda.
 https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
 
 funding for dissertation and graduate study
+**Institute for Humane Studies at George Mason University**
 https://www.theihs.org/academic-programs/
 
 
