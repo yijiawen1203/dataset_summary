@@ -135,6 +135,10 @@ https://fsu-sgacogs.smapply.us/prog/
 Introduction to Data Mining course slides from university of minisoda.
 https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
 
+funding for dissertation and graduate study
+https://www.theihs.org/academic-programs/
+
+
 
 General CS learning material
 ==
