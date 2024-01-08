@@ -74,8 +74,8 @@ CPC2IPC matching
 
 https://www.uspto.gov/web/patents/classification/cpc/html/conB82Ytoipc.html
 
-
-
+match chinese patent with chinese company
+https://www.nature.com/articles/sdata201842
 
 employment data
 ==
