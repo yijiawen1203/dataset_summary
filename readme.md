@@ -16,6 +16,7 @@ https://data-usdot.opendata.arcgis.com/datasets/core-based-statistical-areas/exp
 4_2.  US county shapefile boundary:
 https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
+5. census block distance: https://www.nber.org/research/data/block-distance-database
 
 6. SIPP data: Survey of Income and Program Participation
 https://www.nber.org/research/data/survey-income-and-program-participation-sipp
