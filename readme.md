@@ -16,6 +16,9 @@ https://data-usdot.opendata.arcgis.com/datasets/core-based-statistical-areas/exp
 4_2.  US county shapefile boundary:
 https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 
+4_3. US State shapefile boundary:
+https://data-usdot.opendata.arcgis.com/datasets/4f7f0c7847164a1ba5e6cca926853ab6_0/explore
+
 5. census block distance: https://www.nber.org/research/data/block-distance-database
 
 6. SIPP data: Survey of Income and Program Participation
@@ -23,8 +26,11 @@ https://www.nber.org/research/data/survey-income-and-program-participation-sipp
 
 7. geo spatial database: FGDL Metadata Explorer
 https://www.fgdl.org/metadataexplorer/explorer.jsp
+8. Geo spatial database: US DOT Transportation center:
+https://data-usdot.opendata.arcgis.com/search?collection=dataset
 
-8. IRS migration data
+
+9. IRS migration data
 https://www-irs-gov.proxy.lib.fsu.edu/statistics/soi-tax-stats-migration-data
 
 
