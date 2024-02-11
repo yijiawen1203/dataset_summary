@@ -172,3 +172,7 @@ FSU travel funding
 
 https://sga.fsu.edu/cogs-individual-forms.shtml
 
+FSU service submitting tickets, such as HPC
+==
+https://servicecenter.fsu.edu/s/my-service-center?isdtp=p1
+
