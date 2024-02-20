@@ -176,3 +176,10 @@ FSU service submitting tickets, such as HPC
 ==
 https://servicecenter.fsu.edu/s/my-service-center?isdtp=p1
 
+
+analyzing literature
+==
+
+AI powered literature search
+https://researchrabbitapp.com/home
+
