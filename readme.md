@@ -55,6 +55,11 @@ https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
 https://app.ithenticate.com/en_us/login
 
 **GDP in the US**
+GDP archive data: GDP by msa, but the data is not available for public before 2007.
+https://www.bea.gov/news/archive?field_related_product_target_id=466&created_1=18&title=
+BEA GDP DATA website:
+https://www.bea.gov/data/gdp/gross-domestic-product#gdp
+the historical data is starting from 2002, earlier data is not available.
 
 
 **which msa belong to which states in the us**
