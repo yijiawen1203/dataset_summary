@@ -61,9 +61,14 @@ BEA GDP DATA website:
 https://www.bea.gov/data/gdp/gross-domestic-product#gdp
 the historical data is starting from 2002, earlier data is not available.
 
+GDP by msa, from 2001-2012: i download from https://apps.bea.gov/regional/histdata/releases/0914gmp/index.cfm
+
+before 2001: i cannot find the GDP data.  in this case i get the GDP by state:
+https://apps.bea.gov/regional/histdata/releases/1204gsp/index.cfm (1998-2003)
+https://apps.bea.gov/regional/histdata/releases/0503gsp/index.cfm (1977-2001)
 
 **which msa belong to which states in the us**
-https://apps.bea.gov/regional/docs/msalist.cfm
+https://apps.bea.gov/regional/docs/msalist.cfm, the downloaded data is saved at: /Users/yoga/Documents/Projects/5 explore patent/69_match_innovative_ind_1990_2022/metrolist.csv
 
 
 patent
