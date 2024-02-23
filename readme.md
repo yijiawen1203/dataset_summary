@@ -57,6 +57,9 @@ https://app.ithenticate.com/en_us/login
 **GDP in the US**
 
 
+**which msa belong to which states in the us**
+https://apps.bea.gov/regional/docs/msalist.cfm
+
 
 patent
 ==
