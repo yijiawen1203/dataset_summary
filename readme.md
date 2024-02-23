@@ -54,6 +54,9 @@ https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
 #paper check repetition before submission 文章查重复
 https://app.ithenticate.com/en_us/login
 
+**GDP in the US**
+
+
 
 patent
 ==
