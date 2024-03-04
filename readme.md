@@ -183,6 +183,10 @@ https://www.pdx.edu/urban-studies-planning/graduate-courses#500
 UIUC course syllabus
 https://urban.illinois.edu/student-life/urban-planning-courses/
 
+rugters course syllabus
+https://bloustein.rutgers.edu/graduate/doctoral-studies/
+
+
 FSU travel funding
 ==
 
