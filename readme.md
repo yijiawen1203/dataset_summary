@@ -205,5 +205,16 @@ https://researchrabbitapp.com/home
 
 https://www.litmaps.com/
 
+difference in difference learning meterial
+==
+
+https://www.jonathandroth.com/did-resources/
+
+**Causal Inference**
+
+https://www.mixtapesessions.io/sessions/
+
+
+
 
 
