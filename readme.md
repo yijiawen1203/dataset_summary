@@ -170,7 +170,7 @@ General CS learning material
 Introduction to data mining:
 https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
 
-urban planning course material
+urban planning course material/Syllabus
 ==
 
 the university of Washington urban planning course syllabus. 
@@ -185,6 +185,9 @@ https://urban.illinois.edu/student-life/urban-planning-courses/
 
 rugters course syllabus
 https://bloustein.rutgers.edu/graduate/doctoral-studies/
+
+UCLA course cyllabus
+https://luskin.ucla.edu/urban-planning/for-our-students#toggle-id-3
 
 
 FSU travel funding
