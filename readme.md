@@ -123,6 +123,9 @@ social network dataset
 
 Stanford Large Network Dataset Collection: https://snap.stanford.edu/data/
 
+spatial social network analysis
+https://friendlycities-gatech.github.io/SSN_tutorial/
+
 ### social network workshop from duke univeristy
 
 https://sites.duke.edu/dnac/2023-snh-workshop/
