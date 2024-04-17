@@ -129,6 +129,7 @@ https://friendlycities-gatech.github.io/SSN_tutorial/
 ### social network workshop from duke univeristy
 
 https://sites.duke.edu/dnac/2023-snh-workshop/
+
 https://sites.duke.edu/dnac/training/
 data of the training 
 https://drive.google.com/drive/folders/1FiRzZFYhDFKRy77AJWcjpRk3PXFaO-wi
