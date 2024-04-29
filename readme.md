@@ -191,7 +191,11 @@ https://urbdp.be.uw.edu/programs/mup-graduate-degree/udp-course-listings-and-syl
 
 portland state university urban planning course syllabus
 
+graduate courses
 https://www.pdx.edu/urban-studies-planning/graduate-courses#500
+
+undergraduate courses:
+https://www.pdx.edu/urban-studies-planning/undergraduate-courses
 
 UIUC course syllabus
 https://urban.illinois.edu/student-life/urban-planning-courses/
