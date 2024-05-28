@@ -240,3 +240,12 @@ https://rdx.stldata.org/
 
 
 
+**teaching statement**
+
+vanderbilt university center for teaching
+https://cft.vanderbilt.edu/guides-sub-pages/teaching-statements/
+
+
+
+
+
