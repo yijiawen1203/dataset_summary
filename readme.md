@@ -245,6 +245,9 @@ https://rdx.stldata.org/
 vanderbilt university center for teaching
 https://cft.vanderbilt.edu/guides-sub-pages/teaching-statements/
 
+**useful video for learn**
+https://urbaneconomics.org/workshops/lectures2020/
+urban economics.
 
 
 
