@@ -252,3 +252,8 @@ urban economics.
 
 
 
+
+**satellite imagery**
+satellite imagery came from the National Agriculture Imagery Program (NAIP)
+
+
