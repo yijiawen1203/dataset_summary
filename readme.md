@@ -102,7 +102,10 @@ https://www.nature.com/articles/sdata201842
 employment data
 ==
 
-classify by industry:
+classify by industry,Codes and Titles:
+1990 to 2006, QCEW data were coded using the 2002 version of NAICS.
+2007 to 2010, QCEW data were coded using the 2007 version of NAICS.
+2011 to 2016, QCEW data were coded using the 2012 version of NAICS.
 https://www.bls.gov/cew/classifications/industry/industry-titles.htm
 
 the detailed description of the NAICS 
