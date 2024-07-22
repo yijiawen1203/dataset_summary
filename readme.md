@@ -120,6 +120,11 @@ https://www.bls.gov/cew/downloadable-data-files.htm
 
 **county code fips crosswalk to county name**:https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
 
+**CBSA metro area, micro area code fips crosswalk  to CBSA name pdf**:https://www2.census.gov/programs-surveys/cps/methodology/2015%20Geography%20Cover.pdf
+
+**CBSA crosswalk to county fips**: https://www.nber.org/research/data/census-core-based-statistical-area-cbsa-federal-information-processing-series-fips-county-crosswalk
+
+
 topic modeling tutorial
 ==
 
