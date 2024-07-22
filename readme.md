@@ -118,6 +118,8 @@ https://www.bls.gov/cew/downloadable-data-files.htm
 **the meaning of NAICS industry code explaination** https://www.bls.gov/cew/classifications/industry/industry-titles.htm
 
 
+**county code fips crosswalk to county name**:https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+
 topic modeling tutorial
 ==
 
