@@ -114,6 +114,8 @@ https://data.bls.gov/cew/apps/bls_naics/v3/bls_naics_app.htm#tab=download&naics=
 the employment data in the metropolitan areas in the U.S. **I download the data here and use it in my dissertation**
 https://www.bls.gov/cew/downloadable-data-files.htm
 
+**the meaning of the column names in the downloaded csv file**:https://www.bls.gov/cew/additional-resources/open-data/csv-data-slices.htm
+
 
 topic modeling tutorial
 ==
