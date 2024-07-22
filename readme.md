@@ -115,6 +115,7 @@ the employment data in the metropolitan areas in the U.S. **I download the data 
 https://www.bls.gov/cew/downloadable-data-files.htm
 
 **the meaning of the column names in the downloaded csv file**:https://www.bls.gov/cew/additional-resources/open-data/csv-data-slices.htm
+**the meaning of NAICS industry code explaination** https://www.bls.gov/cew/classifications/industry/industry-titles.htm
 
 
 topic modeling tutorial
