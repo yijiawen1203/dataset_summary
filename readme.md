@@ -263,7 +263,9 @@ https://urbaneconomics.org/workshops/lectures2020/
 urban economics.
 
 
-
+washu course listing
+==
+https://acadinfo.wustl.edu/CourseListings/Semester/Listing.aspx
 
 
 **satellite imagery**
