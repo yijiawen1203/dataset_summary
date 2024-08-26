@@ -268,6 +268,19 @@ washu course listing
 https://acadinfo.wustl.edu/CourseListings/Semester/Listing.aspx
 
 
+GIS Shapefile data
+==
+Florida's Geospatial Open Data: https://geodata.floridagio.gov/
+US census data: https://www.census.gov/data.html
+Arcgis data: https://hub.arcgis.com/search
+ESRI training data: https://www.esri.com/training/catalog/search/
+UF GIS Data: https://fgdl.org/
+
+
+
+
+
+
 **satellite imagery**
 satellite imagery came from the National Agriculture Imagery Program (NAIP)
 
