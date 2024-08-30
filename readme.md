@@ -278,6 +278,8 @@ UF GIS Data: https://fgdl.org/
 land boundary information system: https://www.labins.org/
 US national geospatial program: https://www.usgs.gov/programs/national-geospatial-program/small-scale-data?openChapters=chpwater%23chpwater.
 
+ESRI ArG GIS data download: https://livingatlas.arcgis.com/en/home/
+
 
 other dataset
 havard dataverse: https://dataverse.harvard.edu/
