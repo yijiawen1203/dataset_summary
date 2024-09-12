@@ -286,6 +286,9 @@ havard dataverse: https://dataverse.harvard.edu/
 
 US census geodatabase: https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.2020.html
 
+US census tiger: https://www.census.gov/cgi-bin/geo/shapefiles/index.php
+
+
 
 **satellite imagery**
 satellite imagery came from the National Agriculture Imagery Program (NAIP)
