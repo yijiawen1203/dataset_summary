@@ -223,7 +223,7 @@ https://luskin.ucla.edu/urban-planning/for-our-students#toggle-id-3
 FSU travel funding
 ==
 
-https://sga.fsu.edu/cogs-individual-forms.shtml
+[https://sga.fsu.edu/cogs-individual-forms.shtml](https://sga.fsu.edu/student-government/congress-graduate-students/funding/individual-conference-presentation-and)
 
 FSU service submitting tickets, such as HPC
 ==
