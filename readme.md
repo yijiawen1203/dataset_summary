@@ -216,8 +216,12 @@ https://urban.illinois.edu/student-life/urban-planning-courses/
 rugters course syllabus
 https://bloustein.rutgers.edu/graduate/doctoral-studies/
 
-UCLA course cyllabus
+UCLA course syllabus
 https://luskin.ucla.edu/urban-planning/for-our-students#toggle-id-3
+
+UNC course syllabus
+https://planning.unc.edu/courselisting/
+
 
 
 FSU travel funding
