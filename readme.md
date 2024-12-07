@@ -252,10 +252,12 @@ https://www.jonathandroth.com/did-resources/
 https://www.mixtapesessions.io/sessions/
 
 
+
 st. Louis regional data exchange
 https://rdx.stldata.org/
 
-
+City of St. Louis open data
+https://www.stlouis-mo.gov/data/index.cfm#CP_JUMP_645216
 
 **teaching statement**
 
