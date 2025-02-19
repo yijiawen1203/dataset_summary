@@ -306,3 +306,18 @@ https://github.com/hongtaoh/cv_emulate?tab=readme-ov-file
 satellite imagery came from the National Agriculture Imagery Program (NAIP)
 
 
+
+
+**the tracking and archiving of  federal data**
+
+[Finding Government Information during the 2025 Administration Transition (from Univ. of Minnesota)](https://libguides.umn.edu/c.php?g=1449575&p=10773922)
+Click on the “Data & Website Rescue Efforts” tab for the data on education, public health, environment & climate, and more.
+
+[End of Term Web Archive](https://eotarchive.org/)
+Captures and saves U.S. Government websites at the end of presidential administrations. The EOT has thus far preserved websites from administration changes in 2008, 2012, 2016, and 2020.
+
+Access to some federal data is available through the library's databases:
+Sage Data
+PolicyMap
+Social Explorer (1 concurrent user limit)
+
