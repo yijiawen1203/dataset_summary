@@ -99,6 +99,11 @@ https://www.uspto.gov/web/patents/classification/cpc/html/conB82Ytoipc.html
 match chinese patent with chinese company
 https://www.nature.com/articles/sdata201842
 
+
+**USPC to CPC Match Concordance Table**
+
+https://web.archive.org/web/20211024023435/https://www.ripplesoftware.ca/uspc-to-cpc-statistical-concordance-table/
+
 employment data
 ==
 
