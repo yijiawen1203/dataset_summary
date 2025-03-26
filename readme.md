@@ -54,6 +54,9 @@ https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
 #paper check repetition before submission 文章查重复
 https://app.ithenticate.com/en_us/login
 
+**US census data**
+https://data.census.gov/
+
 **GDP in the US**
 GDP archive data: GDP by msa, but the data is not available for public before 2007.
 https://www.bea.gov/news/archive?field_related_product_target_id=466&created_1=18&title=
