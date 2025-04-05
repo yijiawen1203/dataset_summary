@@ -29,6 +29,7 @@ https://www.fgdl.org/metadataexplorer/explorer.jsp
 8. Geo spatial database: US DOT Transportation center:
 https://data-usdot.opendata.arcgis.com/search?collection=dataset
 
+USA city boundary shapefile from gis online: https://www.arcgis.com/home/item.html?id=2197bc9c3e874cc9a16c9e4c0d668504
 
 9. IRS migration data
 https://www-irs-gov.proxy.lib.fsu.edu/statistics/soi-tax-stats-migration-data
