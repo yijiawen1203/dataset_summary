@@ -1,8 +1,10 @@
 this file includes the website link to many useful commonly-used dataset in my involved papers
 
-1 U.S. county-level population /population details
+1 U.S. county-level population /population details: 2010-2019
 https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
 https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-detail.html
+the 2020 data is here:
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html
 
 U.S. MSA level population details:
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html?utm_source=chatgpt.com
