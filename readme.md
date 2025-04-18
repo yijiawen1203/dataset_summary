@@ -303,6 +303,7 @@ ESRI ArG GIS data download: https://livingatlas.arcgis.com/en/home/
 USA zipcode level shapefile, which is the smallest national level shapefile i can find,  which is find  at **https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.2020.html**, which is saved at is **D:\1_yogafile\3_FSU\tlgdb_2020_a_us_nationgeo.gdb**, ![image](https://github.com/user-attachments/assets/14e45ed8-53ab-4664-afc3-b1ef3d8f910f) this file
 
 
+**North american roads**: https://geodata.bts.gov/datasets/usdot::north-american-roads/about
 
 other dataset
 havard dataverse: https://dataverse.harvard.edu/
