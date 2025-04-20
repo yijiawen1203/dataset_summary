@@ -39,6 +39,8 @@ USA city boundary shapefile from gis online: https://www.arcgis.com/home/item.ht
 9. IRS migration data
 https://www-irs-gov.proxy.lib.fsu.edu/statistics/soi-tax-stats-migration-data
 
+10. IPUMS NHGIS data download: https://data2.nhgis.org/main
+
 
 101: material relating to NPL
 https://junjiehu.github.io/cs769-spring22/lectures/
