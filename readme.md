@@ -24,6 +24,8 @@ https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-
 4_3. US State shapefile boundary:
 https://data-usdot.opendata.arcgis.com/datasets/4f7f0c7847164a1ba5e6cca926853ab6_0/explore
 
+4_4 US city boundary can be downloaded from IPUMS. I saved it at windows folder of **D:\1_yogafile\3_FSU\98_GIS_general_data\US_place_2020\nhgis0002_shape**
+
 5. census block distance: https://www.nber.org/research/data/block-distance-database
 
 6. SIPP data: Survey of Income and Program Participation
