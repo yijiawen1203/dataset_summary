@@ -343,3 +343,5 @@ Sage Data
 PolicyMap
 Social Explorer (1 concurrent user limit)
 
+**AICP exam related resource**: https://sites.google.com/view/urban-planning-foundations/home
+
