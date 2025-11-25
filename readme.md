@@ -60,6 +60,8 @@ http://deeplearning.cs.cmu.edu/S21/index.html
 computational social science course in stanford
 https://www.cc.gatech.edu/classes/AY2022/cs6471_spring/
 
+data visualization
+https://www.yuehaoyu.com/data-analytics-visualization/
 
 #paper check repetition before submission 文章查重复
 https://app.ithenticate.com/en_us/login
