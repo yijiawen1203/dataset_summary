@@ -1,4 +1,4 @@
-this file includes the website link to many useful commonly-used dataset in my involved papers
+<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/69d4a535-3e11-4efa-ba49-72f1b6d3bf51" /><img width="468" height="116" alt="image" src="https://github.com/user-attachments/assets/5ab5bf34-af04-43b7-a5c3-d53df19a0cc7" />this file includes the website link to many useful commonly-used dataset in my involved papers
 
 1 U.S. county-level population /population details: 2010-2019
 https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html
@@ -328,6 +328,18 @@ https://github.com/hongtaoh/cv_emulate?tab=readme-ov-file
 
 **satellite imagery**
 satellite imagery came from the National Agriculture Imagery Program (NAIP)
+
+
+### global scale dataset
+
+Organisation for Economic Co-operation and Development (OECD) is [here](
+https://data-explorer.oecd.org/vis?tenant=archive&df[ds]=DisseminateArchiveDMZ&df[id]=DF_CITIES&df[ag]=OECD&dq=EE001%2BHRV%2BHR001%2BHR005%2BBGR%2BBG001%2BBG002%2BBG003%2BBG004%2BBG005%2BBG006%2BBG008%2BBG007%2BBG009%2BBG010%2BBG011%2BBG013%2BBG014%2BBG015%2BBG016%2BBG017%2BBG018%2BEST%2BLTU.GDP_PC_REAL_PPP&pd=1990%2C2022&to[TIME_PERIOD]=false&vw=tb)
+
+World Bank Group (Poverty Measures) is [here](https://datacatalog.worldbank.org/search/dataset/0064796/subnational-poverty-and-inequality-database-spid)
+
+global data lab is [here](https://globaldatalab.org/)
+
+
 
 
 
