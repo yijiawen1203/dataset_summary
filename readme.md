@@ -339,6 +339,13 @@ World Bank Group (Poverty Measures) is [here](https://datacatalog.worldbank.org/
 
 global data lab is [here](https://globaldatalab.org/)
 
+Atlas of the Human Planet is [here](https://human-settlement.emergency.copernicus.eu/atlas2024.php)
+
+ population from Atlas of the Human Planet is [here](https://human-settlement.emergency.copernicus.eu/ghs_wup_pop_r2025a.php)
+GDP and HDI data is from [here](https://www.nature.com/articles/sdata20184), and the updated 2022 data is [here](https://www.nature.com/articles/s41597-025-04487-x)
+nightlight data is from [here](https://www.nature.com/articles/s41597-020-0510-y#Sec8), and the updated 2020 data is [here](https://gee-community-catalog.org/projects/hntl/)
+
+FUA data is [here](https://drive.google.com/file/d/15fxnEY70_u-AwVaJHwgIAxM2JxRy-Wsp/view)
 
 
 
