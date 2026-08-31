@@ -348,6 +348,9 @@ nightlight data is from [here](https://www.nature.com/articles/s41597-020-0510-y
 FUA data is [here](https://drive.google.com/file/d/15fxnEY70_u-AwVaJHwgIAxM2JxRy-Wsp/view)
 
 
+### SIC industry classification 
+
+[SIC industry classification](https://www.osha.gov/data/sic-manual) 
 
 
 
