@@ -122,6 +122,8 @@ https://web.archive.org/web/20211024023435/https://www.ripplesoftware.ca/uspc-to
 employment data
 ==
 
+crosswalk between SIC classification and the NAICS classification: https://www2.census.gov/library/reference/naics/technical-documentation/concordance/
+
 classify by industry,Codes and Titles:
 1990 to 2006, QCEW data were coded using the 2002 version of NAICS.
 2007 to 2010, QCEW data were coded using the 2007 version of NAICS.
