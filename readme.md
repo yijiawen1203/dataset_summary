@@ -149,7 +149,7 @@ https://www.bls.gov/cew/downloadable-data-files.htm
 **CBSA crosswalk to county change before and after 2013** the link is [here](https://www.bls.gov/cew/classifications/areas/county-msa-csa-crosswalk.htm)
 
 in brief, the before 2012.12 data use 2003.12 definition, starting from 2013.1, they use 2013.2 definition. and we need to Download QCEW at the county level for every year. Merge every county-year to that one vintage’s county-to-MSA mapping and aggregate county values to MSA-year. Sum employment, establishments, and total wages; then recompute pay measures (do not sum average annual pay).
-the code can be found here.
+the code can be found at: 3_3_crosswalk_msa_to_county_to_match_before2012.ipynb at mac.
 
 
 topic modeling tutorial
